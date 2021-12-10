@@ -2,7 +2,8 @@
 Data Science Project aimed at understanding loan data and doing both unsupervised and supervised learning on the dataset
 
 ## Data Source
-url: https://www.kaggle.com/itssuru/loan-data
+Kaggle website: https://www.kaggle.com/itssuru/loan-data
+
 original data comes from the credit site - www.lendingclub.com
 
 ## Data Fields
